@@ -1,5 +1,3 @@
-#include <iostream>
-
 #include "color.h"
 #include "vec3.h"
 
